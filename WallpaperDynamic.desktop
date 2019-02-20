@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WallpaperDynamic
+GenericName=Set video as wallpaper
+Exec=/opt/dynamic-wallpaper/dynamic-wallpaper-script.sh
+Icon=deepin-toggle-desktop
+Categories=System;
