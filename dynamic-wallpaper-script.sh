@@ -10,6 +10,8 @@
 ratio_aspect="$select_ratio_aspect"
 sound="$select_sound"
 url="$select_url"
+# antes tomaba la ruta de settings.cfg pero ahora toma esta nueva ruta donde siempre se creará una copia del video seleccionado desde el otro script en la variable $select_url
+#url='/opt/dynamic-wallpaper/media'
 
 # ---------------------------- conds
 
