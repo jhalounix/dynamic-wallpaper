@@ -5,4 +5,5 @@ Instalación: Hice un .deb pero no confio en eso así que aprenderás a instalar
 
 Así se crearan en el lanzador dos iconos, uno para configurar y el otro para ejecutar el fondo dinámico (estan separados para que puedas ponerlo al inicio del sistema desde el lanzador de aplicaciones.
 
+Esta es la primera versión, no bajes este desastre...
 Bajenlo de aquí: https://github.com/jhalounix/dynamic-wallpaper/tree/release
